@@ -14,5 +14,6 @@ public class Lab {
      */
     public void throwUncheckedException(){
 
+        double devideZero = 4/0;
     }
 }
